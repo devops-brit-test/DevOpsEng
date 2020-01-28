@@ -38,6 +38,6 @@ Given the same instructions, find the position of the first character that cause
 For example:
 
     ) causes you to enter the basement at character position 1.
-    ()()) causes him to enter the basement at character position 5.
+    ()()) causes you to enter the basement at character position 5.
 
 What is the position of the character that causes you to first enter the basement?
