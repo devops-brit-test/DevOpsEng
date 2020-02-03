@@ -1,5 +1,5 @@
 # Tests for DevOps 
-Test tasks for DevOps Engineer role. 
+Powershell tasks for DevOps Engineer role. 
 ## Getting Started
 Please create a folder with the task name and place your powershell script inside. For example:
 ```
