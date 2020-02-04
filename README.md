@@ -11,7 +11,7 @@ The input required for task1 is located at
 ```
 task1\task1_input.txt
 ```
-Please ensure your script outputs both parts of the task. For example:
+Please ensure your script shows the code you used to get the results and outputs both parts of the task. For example:
 ```
 write-output "result of task1 part a is: x"
 ```
